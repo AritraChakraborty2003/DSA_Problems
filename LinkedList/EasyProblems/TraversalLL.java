@@ -24,7 +24,6 @@ public class TraversalLL {
     
 }
 
-
 class Node{
     int data;
     Node next;
