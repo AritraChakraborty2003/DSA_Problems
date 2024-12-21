@@ -7,7 +7,7 @@ public class InsertAtHead {
         Node temp=head;
         newNode.next = temp;
         head = newNode;
-        return newNode;
+        return head;
     }
     static void printList(Node head){
         Node temp=head;
